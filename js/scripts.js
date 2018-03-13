@@ -19,7 +19,7 @@
  *	- in CSS: 
  *		- take the code from style.css(/itm-scripts/style.css)
  */
-	$(window).load(function() {
+	$(window).on("load", function () {
 		$(".itm-loader").fadeOut("slow");
 	});
 ////////////////////////////////////////////////////////////////////////////////

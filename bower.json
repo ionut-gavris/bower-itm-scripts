@@ -1,8 +1,7 @@
 {
   "name": "itm-scripts",
-  "version": "1.0.0",
-  "ignore": [
-        ".gitignore",
-        "bower.json"
-    ]
+  "version": "1.0.1",
+  "dependencies": {
+    "itm-media": "^1.0.0"
+  }
 }
