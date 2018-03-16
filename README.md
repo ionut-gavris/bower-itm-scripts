@@ -4,7 +4,7 @@
 
 # README #
 
-This README contain the basic project informations that you need to know and the steps that are necessary to get your application up and running.
+This repository contains custom js scripts created by the IT-Maniax Team.
 
 ***
 
@@ -49,6 +49,6 @@ This README contain the basic project informations that you need to know and the
 
 ### Git workflow ###
 
-+ Please read and respect the steps from this tutorial: [[GIT workflow](https://docs.google.com/document/d/1jGZec9NLEwojVST8ymmodbIdcT45rZ4-AeD6MhRrqZA "IT-Maniax GIT workflow")]
++ Please read and respect the steps from this tutorial: [[GIT workflow](https://docs.google.com/document/d/1FVlsaadtFB1JIoSuZJ1zPSf-Gz7_C_bWeaEYc30MICU "IT-Maniax GIT workflow")]
 
 ***
