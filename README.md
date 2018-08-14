@@ -15,6 +15,10 @@ This repository contains custom js scripts created by the IT-Maniax Team.
         4)  itmContentHeight;
         5)  itmAccordion;
         6)  itmContentOutOfBox;
+        7)  itmAccordionMenu;
+        8)  itmBxslider;
+        9)  itmInitFlipClock;
+        10) itmMatrixEffect;
         
 ***
 
