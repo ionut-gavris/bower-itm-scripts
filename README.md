@@ -9,14 +9,14 @@ This repository contains custom js scripts created by the IT-Maniax Team.
 ***
 
 ### Demo ###
-        1)  Loader: https://jsfiddle.net/itmaniax/w5k1hu7c/23
-        2)  itmScrollToTop: https://jsfiddle.net/itmaniax/rnmh57c8
-        3)  itmTextareaAutoHeight: https://jsfiddle.net/itmaniax/jg02wq6o
-        4)  itmContentHeight: https://jsfiddle.net/itmaniax/d2ztq345
-        5)  itmAccordionMenu: https://jsfiddle.net/itmaniax/jhratp05
-        6)  itmBxslider: https://jsfiddle.net/itmaniax/hL7r0q3w
-        7)  itmInitFlipClock: https://jsfiddle.net/itmaniax/b8omcud1
-        8)  itmMatrixEffect: https://jsfiddle.net/itmaniax/av9kw3nu/
+        1)  Loader: <https://jsfiddle.net/itmaniax/w5k1hu7c>
+        2)  itmScrollToTop: <https://jsfiddle.net/itmaniax/rnmh57c8>
+        3)  itmTextareaAutoHeight: <https://jsfiddle.net/itmaniax/jg02wq6o>
+        4)  itmContentHeight: <https://jsfiddle.net/itmaniax/d2ztq345>
+        5)  itmAccordionMenu: <https://jsfiddle.net/itmaniax/jhratp05>
+        6)  itmBxslider: <https://jsfiddle.net/itmaniax/hL7r0q3w>
+        7)  itmInitFlipClock: <https://jsfiddle.net/itmaniax/b8omcud1>
+        8)  itmMatrixEffect: <https://jsfiddle.net/itmaniax/av9kw3nu>
         
 ***
 
