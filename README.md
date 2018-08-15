@@ -8,17 +8,15 @@ This repository contains custom js scripts created by the IT-Maniax Team.
 
 ***
 
-### Available scripts ###
-        1)  Loader
-        2)  itmScrollToTop;
-        3)  itmTextareaAutoHeight;
-        4)  itmContentHeight;
-        5)  itmAccordion;
-        6)  itmContentOutOfBox;
-        7)  itmAccordionMenu;
-        8)  itmBxslider;
-        9)  itmInitFlipClock;
-        10) itmMatrixEffect;
+### Demo ###
+        1)  Loader: https://jsfiddle.net/itmaniax/w5k1hu7c/23
+        2)  itmScrollToTop: https://jsfiddle.net/itmaniax/rnmh57c8
+        3)  itmTextareaAutoHeight: https://jsfiddle.net/itmaniax/jg02wq6o
+        4)  itmContentHeight: https://jsfiddle.net/itmaniax/d2ztq345
+        5)  itmAccordionMenu: https://jsfiddle.net/itmaniax/jhratp05
+        6)  itmBxslider: https://jsfiddle.net/itmaniax/hL7r0q3w
+        7)  itmInitFlipClock: https://jsfiddle.net/itmaniax/b8omcud1
+        8)  itmMatrixEffect: https://jsfiddle.net/itmaniax/av9kw3nu/
         
 ***
 
@@ -40,14 +38,6 @@ This repository contains custom js scripts created by the IT-Maniax Team.
     Example:
     //path for new file with the initialization
     <script type="text/javascript" src="/assets/js/scripts.itm-scripts.js"></script>
-
-***
-
-### How to use ###
-
-    In scripts.js you have the steps for each function. An HTML example with the
-    structure you need and also an example of how to call the function in 
-    SCRIPTS, the js file.
 
 ***
 

@@ -1,6 +1,6 @@
 {
   "name": "itm-scripts",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "dependencies": {
     "itm-media": "^1.0.0"
   }
