@@ -10,13 +10,13 @@ This repository contains custom js scripts created by the IT-Maniax Team.
 ### Demo ###
 
 + [Loader](https://jsfiddle.net/itmaniax/w5k1hu7c)
-+ [[itmScrollToTop](https://jsfiddle.net/itmaniax/rnmh57c8)]]
-+ [[itmTextareaAutoHeight](https://jsfiddle.net/itmaniax/jg02wq6o)]]
-+ [[itmContentHeight](https://jsfiddle.net/itmaniax/d2ztq345)]]
-+ [[itmAccordionMenu](https://jsfiddle.net/itmaniax/jhratp05)]]
-+ [[itmBxslider](https://jsfiddle.net/itmaniax/hL7r0q3w)]]
-+ [[itmInitFlipCloc](https://jsfiddle.net/itmaniax/b8omcud1)]]
-+ [[itmMatrixEffect](https://jsfiddle.net/itmaniax/av9kw3nu)]]
++ [itmScrollToTop](https://jsfiddle.net/itmaniax/rnmh57c8)
++ [itmTextareaAutoHeight](https://jsfiddle.net/itmaniax/jg02wq6o)
++ [itmContentHeight](https://jsfiddle.net/itmaniax/d2ztq345)
++ [itmAccordionMenu](https://jsfiddle.net/itmaniax/jhratp05)
++ [itmBxslider](https://jsfiddle.net/itmaniax/hL7r0q3w)
++ [itmInitFlipCloc](https://jsfiddle.net/itmaniax/b8omcud1)
++ [itmMatrixEffect](https://jsfiddle.net/itmaniax/av9kw3nu)
 
 ### First you have to include in the project the plugin files ###
 
