@@ -9,7 +9,7 @@ This repository contains custom js scripts created by the IT-Maniax Team.
 ***
 
 ### Demo ###
-        1)  [[Loader](https://jsfiddle.net/itmaniax/w5k1hu7c)]]
+        1)  [Loader](https://jsfiddle.net/itmaniax/w5k1hu7c)
         2)  [[itmScrollToTop](https://jsfiddle.net/itmaniax/rnmh57c8)]]
         3)  [[itmTextareaAutoHeight](https://jsfiddle.net/itmaniax/jg02wq6o)]]
         4)  [[itmContentHeight](https://jsfiddle.net/itmaniax/d2ztq345)]]
