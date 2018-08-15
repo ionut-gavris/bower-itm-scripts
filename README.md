@@ -6,7 +6,6 @@
 
 This repository contains custom js scripts created by the IT-Maniax Team.
 
-***
 
 ### Demo ###
         1)  [Loader](https://jsfiddle.net/itmaniax/w5k1hu7c)
@@ -17,8 +16,6 @@ This repository contains custom js scripts created by the IT-Maniax Team.
         6)  [[itmBxslider](https://jsfiddle.net/itmaniax/hL7r0q3w)]]
         7)  [[itmInitFlipCloc](https://jsfiddle.net/itmaniax/b8omcud1)]]
         8)  [[itmMatrixEffect](https://jsfiddle.net/itmaniax/av9kw3nu)]]
-        
-***
 
 ### First you have to include in the project the plugin files ###
 
